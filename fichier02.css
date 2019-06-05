@@ -1,0 +1,12 @@
+/* fichier style.css */
+  p{margin:0; padding:0; }
+  #liste_id{display:inline-block; width:39%; vertical-align:top; }
+  #carte_id{display:inline-block; width:59%; vertical-align:top; }
+
+
+/* identifiant de la balise HTML pour la hauteur de la carte */
+  #map{height:500px; width:100%; display:inline-block; }
+  
+label{display:inline-block; width:110px; }
+
+*.error{color:red; font-weight:700; }
