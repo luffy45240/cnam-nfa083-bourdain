@@ -1,0 +1,9 @@
+# fichier pour les robots du site https://cnam-controle.000webhostapp.com
+User-Agent: * 
+Disallow: inc
+Disallow: js 
+Disallow: fichier01.php
+
+Allow: /*.css?*
+
+Sitemap : https://cnam-controle.000webhostapp.com/sitemap.xml
